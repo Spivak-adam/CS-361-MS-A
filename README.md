@@ -47,7 +47,7 @@ This is a microservice that fetches event data from the Ticketmaster API based o
      event_type VARCHAR(100),
      ticket_url VARCHAR(255)
    );
-5. Start the microservice by writing "npm start" in the terminal
+5. Start the microservice by writing `npm start` in the terminal
 
 ## Usage
 
