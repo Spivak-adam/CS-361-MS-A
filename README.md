@@ -1,7 +1,7 @@
 # CS-361-MS-A
 # Ticketmaster Microservice
 
-This is a microservice that fetches event data from the Ticketmaster API based on search criteria (date, city, zipcode, event type). The microservice stores the data in a MySQL database and allows retrieval of event information via RESTful APIs.
+This microservice fetches event data from the Ticketmaster API based on search criteria (date, city, zip code, event type). The microservice stores the data in a MySQL database and allows retrieval of event information via RESTful APIs.
 
 ## How It Works
 
