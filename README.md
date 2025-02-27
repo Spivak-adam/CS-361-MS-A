@@ -61,5 +61,6 @@ This microservice fetches event data from the Ticketmaster API based on search c
 
 ## UML
 
-<img width="3717" alt="Microservice UML" src="https://github.com/user-attachments/assets/2feeef0d-1c9d-491f-ba3b-e01aadc08fdd" />
+<img width="2735" alt="Microservice UML" src="https://github.com/user-attachments/assets/e560f5b9-1aa9-49c8-bdf6-39b8eee09852" />
+
 
