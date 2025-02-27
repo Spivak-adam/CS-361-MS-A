@@ -58,3 +58,8 @@ This microservice fetches event data from the Ticketmaster API based on search c
 
 - If an error occurs while fetching data from the Ticketmaster API, the microservice will return a 500 error with the message.
 - If an error occurs while accessing the database, the microservice will return a 500 error with the message.
+
+## UML
+
+<img width="3717" alt="Microservice UML" src="https://github.com/user-attachments/assets/2feeef0d-1c9d-491f-ba3b-e01aadc08fdd" />
+
